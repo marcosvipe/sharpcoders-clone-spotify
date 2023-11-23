@@ -4,7 +4,7 @@ Clone Front-End da página principal do Spotify.
 Projeto para desenvolvedores iniciantes treinarem as tecnologias CSS e HTML.
 
 #
-## Programa GoDev
+## Programa Sharp Coders
 - Curso em andamento: Desenvolvedor Full Stack Jr.
 - Instituição: ImãLearningPlace.
 
